@@ -10,7 +10,7 @@
       sub: 'História, identidade, resistência e igualdade.'
     },
     {
-      img: 'importanciaDaData.jfif',
+      img: 'data.jfif',
       layout: 'right',
       tag: 'A importância da data',
       big: '20/11',
