@@ -3,7 +3,7 @@
 
   const SLIDES = [
     {
-      img: 'aberturaCinematografica.jfif',
+      img: 'abertura.jfif',
       layout: 'full hero',
       tag: '20 de novembro',
       title: 'CONSCIÊNCIA NEGRA',
@@ -64,7 +64,7 @@
       ]
     },
     {
-      img: 'RacismoAindaExiste.jfif',
+      img: 'racismo.jfif',
       layout: 'full',
       tag: 'Conscientização',
       title: 'O racismo ainda existe',
@@ -72,14 +72,14 @@
       sub: 'Racismo é crime. Respeito é dever.'
     },
     {
-      img: 'respeitoEIgualdade.jfif',
+      img: 'respeito.jfif',
       layout: 'right',
       tag: 'Respeito e igualdade',
       title: 'Diversidade é força',
       text: 'Combater o preconceito é responsabilidade de todos: na escola, em casa e nas ruas. Cada atitude conta.'
     },
     {
-      img: 'encerramento2.jfif',
+      img: 'encerramento.jfif',
       layout: 'full center',
       tag: 'Consciência Negra',
       title: 'Conhecer a história é reconhecer a resistência.',
